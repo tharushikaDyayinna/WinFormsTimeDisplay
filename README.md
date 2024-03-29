@@ -9,7 +9,7 @@ This is a simple Windows Forms application written in C#.
 * Displays the current time on a label.
 * Uses a timer to potentially perform actions at regular intervals (not implemented yet).
 
-## Getting Started
+## You can Start
 
 This project requires Visual Studio and the .NET Framework to be installed.
 
@@ -17,7 +17,7 @@ This project requires Visual Studio and the .NET Framework to be installed.
 2. Open the solution file (WinFormsApp2.sln) in Visual Studio.
 3. Run the application (press F5) to see the form with the current time displayed.
 
-## Next Steps
+## Develop
 
 The provided code serves as a basic structure. You can extend it by:
 
