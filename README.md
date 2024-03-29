@@ -1,6 +1,7 @@
 # WinFormsTimeDisplay
 
 This is a simple Windows Forms application written in C#.
+![1](https://github.com/tharushikaDyayinna/WinFormsTimeDisplay/assets/102175958/8f3988c6-3ef1-4346-b9b9-bb0560574a77)
 
 ## Features
 
